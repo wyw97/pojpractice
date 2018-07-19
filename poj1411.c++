@@ -1,7 +1,7 @@
-# Calling Extraterrestrial Intelligence Again
-# 简单枚举即可
-# http://poj.org/problem?id=1411
-# poj上sqrt很奇怪啊，ce了好几次，没啥好说的
+// Calling Extraterrestrial Intelligence Again
+// 简单枚举即可
+// http://poj.org/problem?id=1411
+// poj上sqrt很奇怪啊，ce了好几次，没啥好说的
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
